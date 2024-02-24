@@ -1,1 +1,5 @@
 # Trying
+Abdul Azis Burhanudin 
+20230040028
+TI23B
+TEKNIK INFORMATIKA 
