@@ -1,5 +1,5 @@
 # Trying
-Abdul Azis Burhanudin 
-20230040028
-TI23B
-TEKNIK INFORMATIKA 
+Abdul Azis Burhanudin / Widy Putri Pratiwi 
+20230040028 / 20230040027
+TI23B / TI23B
+TEKNIK INFORMATIKA / Teknik Informatika 
